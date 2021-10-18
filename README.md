@@ -1,4 +1,4 @@
-# Bem Vindo(a) Desafio-backend (Node/Python)
+# Bem Vindo(a) Desafio-Backend (Node/Python)
 
 ## Estamos felizes que você escolheu fazer o nosso Desafio Backend!
 
