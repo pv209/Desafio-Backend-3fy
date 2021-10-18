@@ -11,7 +11,7 @@ Após a conclusão do Desafio, basta enviar um email com o link do repositório 
 Este desafio consiste em desenvolver uma api de cadastro inicial de uma pessoa em uma plataforma web.
 
 Você como desenvolvedor deverá receber um json como o abaixo, fazer o registro dentro de um banco de dados que você desejar e for fim retornar um JWT token para autenticar a entrada desse usuário na plataforma.
-```json
+``json
 {
 	“firstName”: “Bruno”,
 	“lastName”: “Silva”,
@@ -30,5 +30,6 @@ Você como desenvolvedor deverá receber um json como o abaixo, fazer o registro
 
 	],
 }
-```
-Qualquer dúvida, fique `a vontade para nos mandar um Whatsapp ou e-mail.
+``
+
+Qualquer dúvida, fique à vontade para nos mandar um Whatsapp ou e-mail.
